@@ -72,6 +72,8 @@ THEN I am taken to the corresponding section of the README
   
 ## Usage
 💻   
+
+![Gif demo of README-generator](./src/readme-demo.gif)
   
 Run the following command at th root of your project and answer the prompted questions:
   
